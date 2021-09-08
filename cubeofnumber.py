@@ -4,3 +4,4 @@ cube = number * number * number
 
 print("The Cube of a Given Number {0}  = {1}".format(number, cube))
 print("this is first commit")
+print("this is second commit")
